@@ -1,0 +1,33 @@
+{
+  "name": "accessible-forms",
+  "version": "1.0.0",
+  "description": "Examples of things to do and not to do to create accessible forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "keywords": [
+    "forms",
+    "wcag",
+    "accessibility",
+    "web",
+    "accessibility",
+    "design",
+    "ux"
+  ],
+  "author": "Tyler Hawkins",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@storybook/react": "^5.3.13",
+    "babel-loader": "^8.0.6"
+  }
+}
