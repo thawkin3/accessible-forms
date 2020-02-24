@@ -2,7 +2,7 @@ import React from 'react';
 import '../.storybook/storybook.css'
 
 export default {
-  title: 'Labels',
+  title: '01 - Labels',
 };
 
 export const Good = () => (

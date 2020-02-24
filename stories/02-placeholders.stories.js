@@ -2,7 +2,7 @@ import React from 'react';
 import '../.storybook/storybook.css'
 
 export default {
-  title: 'Placeholder Text',
+  title: '02 - Placeholder Text',
 };
 
 export const Good = () => (
